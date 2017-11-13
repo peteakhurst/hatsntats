@@ -312,3 +312,12 @@ footer {
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px; }
+
+.menu-items {
+  list-style-type: none;
+}
+
+.menu-items li {
+  display: inline-block;
+  margin: 0 40px;
+}
